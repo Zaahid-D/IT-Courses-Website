@@ -347,7 +347,7 @@ function initTestimonials() {
             author: {
                 name: "Amara Ndlovu",
                 role: "Frontend Developer",
-                image: "Images/Testimonial1.png",
+                image: "Testimonial1.png",
                 achievement: "fa-trophy"
             }
         },
@@ -356,7 +356,7 @@ function initTestimonials() {
             author: {
                 name: "Tariq Hassan",
                 role: "AI Engineer",
-                image: "Images/Testimonial2.png",
+                image: "Testimonial2.png",
                 achievement: "fa-rocket"
             }
         },
@@ -365,7 +365,7 @@ function initTestimonials() {
             author: {
                 name: "Aaliyah Rahimi",
                 role: "Cloud Architect",
-                image: "Images/Testimonial3.png",
+                image: "Testimonial3.png",
                 achievement: "fa-medal"
             }
         },
@@ -374,7 +374,7 @@ function initTestimonials() {
             author: {
                 name: "Luca Romano",
                 role: "Security Analyst",
-                image: "Images/Testimonial4.png",
+                image: "Testimonial4.png",
                 achievement: "fa-shield-alt"
             }
         },
@@ -383,7 +383,7 @@ function initTestimonials() {
             author: {
                 name: "Sofia Fernández",
                 role: "Data Scientist",
-                image: "Images/Testimonial5.png",
+                image: "Testimonial5.png",
                 achievement: "fa-chart-line"
             }
         },
@@ -392,7 +392,7 @@ function initTestimonials() {
             author: {
                 name: "Kenji Yamamoto",
                 role: "Mobile Developer",
-                image: "Images/Testimonial6.png",
+                image: "Testimonial6.png",
                 achievement: "fa-mobile-alt"
             }
         }
